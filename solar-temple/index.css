@@ -30,3 +30,13 @@ h6 {
     font-weight: inherit;
     font-size: inherit;
 }
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+    height: 100%;
+    background-color: white;
+}
+
+._container {
+    max-width: 1200px;
+}
